@@ -4,7 +4,7 @@ A Python data pipeline and interactive dashboard that tracks home prices, rents,
 affordability across U.S. metro areas, using public data from **Zillow** and the
 **Freddie Mac**.
 
-<!-- Add a screenshot of the dashboard here: ![Dashboard](docs/dashboard.png) -->
+![Dashboard overview: national KPIs and home value trends for the largest metros](docs/overview.png)
 
 ## What it does
 
@@ -18,6 +18,8 @@ affordability across U.S. metro areas, using public data from **Zillow** and the
   - Estimated monthly mortgage payment (20% down, 30-year fixed)
 - **Visualizes** results in a Streamlit dashboard with Plotly charts: metro comparisons,
   growth rankings, buy-vs-rent cost trends, and a downloadable data table.
+
+![Affordability tab: median mortgage payment vs. median rent as rates rose](docs/affordability.png)
 
 ## Tech stack
 
